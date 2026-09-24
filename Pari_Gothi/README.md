@@ -7,8 +7,8 @@ This API features robust **Role-Based Access Control (RBAC)** across three roles
 ---
 
 ## 🚀 Live Demo & Links
-- **Live Render URL**: `https://pari-gothi-assignment-9-pharmacy.onrender.com` 
-- **GitHub Repository**: `https://github.com/Parii22/Pari-Gothi-_assignment-9-pharmacy-management-api`
+- **Live Render URL**: https://pari-gothi-assignment-9-pharmacy.onrender.com
+- **GitHub Repository**: https://github.com/Parii22/Pari-Gothi-_assignment-9-pharmacy-management-api
 
 ---
 
